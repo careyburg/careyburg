@@ -1,0 +1,40 @@
+<wpml-config>
+
+	<custom-types>
+			<custom-type translate="1">indonez_portfolio</custom-type>
+			<custom-type translate="1">indonez_slideshow</custom-type>
+			<custom-type translate="1">indonez_team</custom-type>
+			<custom-type translate="1">indonez_testimonial</custom-type>
+			<custom-type translate="1">indonez_client</custom-type>
+	</custom-types>	
+
+	<taxonomies>
+		<taxonomy translate="1">portfolio_category</taxonomy>
+	</taxonomies>
+
+	<admin-texts>
+			<key name="xarago_opts">
+				<key name="xarago_404_text" />
+				<key name="xarago_header_text" />
+				<key name="xarago_header_live_chat_label" />
+				<key name="xarago_header_login_button_label" />
+				<key name="xarago_payment_text" />
+				<key name="xarago_footer_text" />
+				<key name="xarago_blog_title" />
+				<key name="xarago_readmore_text" />
+				<key name="xarago_related_pf" />
+				<key name="xarago_related_subtitle_pf" />
+				<key name="xarago_saletext" />
+				<key name="xarago_outofstocktext" />
+				<key name="xarago_product_type_external_labeltext" />
+				<key name="xarago_product_type_grouped_labeltext" />
+				<key name="xarago_product_type_variable_labeltext" />
+				<key name="xarago_product_type_simple_labeltext" />
+				<key name="xarago_viewcartlabeltext" />
+				<key name="xarago_infoproductlabeltext" />
+			</key> 
+	 </admin-texts>
+
+</wpml-config>
+
+

@@ -1,0 +1,1420 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xarago\n"
+"POT-Creation-Date: 2016-08-10 01:04+0700\n"
+"PO-Revision-Date: 2016-08-10 01:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_attr_x;esc_html_e;"
+"esc_html__;esc_html_x;_n;_nx;_n_noop;_x;_nc;_ex;_nx_noop;_c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20 404.php:27
+msgid "oops! 404 "
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"The page you are looking for might have been removed had its name changed or "
+"is temporarily unavailable"
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"The page you are looking for might have been removed<br/> had its name "
+"changed or is temporarily unavailable"
+msgstr ""
+
+#: 404.php:30
+msgid "you can go to this link"
+msgstr ""
+
+#: admin/options.php:58
+msgid "<h1>The compiler hook has run!</h1>"
+msgstr ""
+
+#: admin/options.php:73
+msgid "Section via hook"
+msgstr ""
+
+#: admin/options.php:74
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: admin/options.php:153
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/options.php:162 admin/options.php:166
+msgid "Current theme preview"
+msgstr ""
+
+#: admin/options.php:173
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: admin/options.php:174
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: admin/options.php:175
+msgid "Tags"
+msgstr ""
+
+#: admin/options.php:180
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: admin/options.php:180
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: admin/options.php:197
+msgid "General"
+msgstr ""
+
+#: admin/options.php:202
+msgid "Responsive Layout"
+msgstr ""
+
+#: admin/options.php:203
+msgid ""
+"Activate the responsive layout. If enabled, the website will change its "
+"shape for mobile devices."
+msgstr ""
+
+#: admin/options.php:211
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/options.php:212
+msgid ""
+"Upload a 16px x 16px PNG/GIF image that will represent your website`s "
+"favicon."
+msgstr ""
+
+#: admin/options.php:219
+msgid "Apple touch icon precomposed 144x144 px"
+msgstr ""
+
+#: admin/options.php:220
+msgid ""
+"Upload a PNG image for third generation iPad with high resolution Retina "
+"display."
+msgstr ""
+
+#: admin/options.php:227
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/options.php:228
+msgid "Upload an image that will represent your website`s logo."
+msgstr ""
+
+#: admin/options.php:233
+msgid "404 Text"
+msgstr ""
+
+#: admin/options.php:234
+msgid "Place here your text 404 page not found message."
+msgstr ""
+
+#: admin/options.php:241
+msgid "Header"
+msgstr ""
+
+#: admin/options.php:246
+msgid "Header Cart Button"
+msgstr ""
+
+#: admin/options.php:247
+msgid "Enable or disable cart button in header section"
+msgstr ""
+
+#: admin/options.php:253
+msgid "Header Top Menu"
+msgstr ""
+
+#: admin/options.php:254
+msgid "Enable or disable top menu in header section"
+msgstr ""
+
+#: admin/options.php:260
+msgid "Page Header BreadCrumb"
+msgstr ""
+
+#: admin/options.php:261
+msgid "Enable or disable breadcrumb navigation in header section"
+msgstr ""
+
+#: admin/options.php:267
+msgid "Page Header Search"
+msgstr ""
+
+#: admin/options.php:268
+msgid "Enable or disable search form in header section"
+msgstr ""
+
+#: admin/options.php:277
+msgid "Footer"
+msgstr ""
+
+#: admin/options.php:282
+msgid "Top Foooter Section"
+msgstr ""
+
+#: admin/options.php:283
+msgid "Enable or disable top footer content section"
+msgstr ""
+
+#: admin/options.php:289
+msgid "Footer Text"
+msgstr ""
+
+#: admin/options.php:290
+msgid "Place here your copyright line."
+msgstr ""
+
+#: admin/options.php:300
+msgid "Posts"
+msgstr ""
+
+#: admin/options.php:305
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: admin/options.php:306
+msgid ""
+"Select post sidebar position. It will be applied to single posts, index "
+"page, archive and search pages."
+msgstr ""
+
+#: admin/options.php:317
+msgid "Blog Title"
+msgstr ""
+
+#: admin/options.php:318
+msgid "Enter Blog Title."
+msgstr ""
+
+#: admin/options.php:324
+msgid "Readmore"
+msgstr ""
+
+#: admin/options.php:325 admin/options.php:346
+msgid "If the option is on, the name of author will be displayed on post."
+msgstr ""
+
+#: admin/options.php:331
+msgid "Readmore text"
+msgstr ""
+
+#: admin/options.php:332
+msgid "Replace read more text in blog posts."
+msgstr ""
+
+#: admin/options.php:338
+msgid "Post Meta info"
+msgstr ""
+
+#: admin/options.php:340
+msgid "Some settings for post meta info"
+msgstr ""
+
+#: admin/options.php:345
+msgid "Author Name"
+msgstr ""
+
+#: admin/options.php:352
+msgid "Comment Count"
+msgstr ""
+
+#: admin/options.php:353
+msgid "If the option is on, the comment count will be displayed on post."
+msgstr ""
+
+#: admin/options.php:359
+msgid "Post Date"
+msgstr ""
+
+#: admin/options.php:360
+msgid "If the option is on, the post date will be displayed on post."
+msgstr ""
+
+#: admin/options.php:366
+msgid "Post Category"
+msgstr ""
+
+#: admin/options.php:367
+msgid "If the option is on, the post category will be displayed on post."
+msgstr ""
+
+#: admin/options.php:373
+msgid "Social Share"
+msgstr ""
+
+#: admin/options.php:374
+msgid ""
+"If the option is on, the social share will be display in meta post section."
+msgstr ""
+
+#: admin/options.php:383
+msgid "Shop"
+msgstr ""
+
+#: admin/options.php:388
+msgid "Product Column"
+msgstr ""
+
+#: admin/options.php:389
+msgid "Select product column layout, will be used for product category page."
+msgstr ""
+
+#: admin/options.php:391
+msgid "2 Column"
+msgstr ""
+
+#: admin/options.php:392
+msgid "3 Column"
+msgstr ""
+
+#: admin/options.php:393
+msgid "4 Column"
+msgstr ""
+
+#: admin/options.php:400
+msgid "Product Items Per Page"
+msgstr ""
+
+#: admin/options.php:401
+msgid "Insert the number of posts to display per page."
+msgstr ""
+
+#: admin/options.php:407
+msgid "Sale Label"
+msgstr ""
+
+#: admin/options.php:408
+msgid "Sale"
+msgstr ""
+
+#: admin/options.php:413
+msgid "Out of Stock Label"
+msgstr ""
+
+#: admin/options.php:414
+msgid "No Stock"
+msgstr ""
+
+#: admin/options.php:421
+msgid "Sidebars"
+msgstr ""
+
+#: admin/options.php:426
+msgid "Generate a new sidebar"
+msgstr ""
+
+#: admin/options.php:427
+msgid "Type the name of the new sidebar widget area"
+msgstr ""
+
+#: admin/options.php:435
+msgid "Typography"
+msgstr ""
+
+#: admin/options.php:441
+msgid "Body Font Options"
+msgstr ""
+
+#: admin/options.php:442
+msgid "Select font options for the body"
+msgstr ""
+
+#: admin/options.php:461
+msgid "Menu Font Options"
+msgstr ""
+
+#: admin/options.php:462
+msgid "Select font options for the main menu."
+msgstr ""
+
+#: admin/options.php:481
+msgid "H1 Font Options"
+msgstr ""
+
+#: admin/options.php:482
+msgid "Select font options for Heading 1."
+msgstr ""
+
+#: admin/options.php:501
+msgid "H2 Font Options"
+msgstr ""
+
+#: admin/options.php:502
+msgid "Select font options for Heading 2."
+msgstr ""
+
+#: admin/options.php:521
+msgid "H3 Font Options"
+msgstr ""
+
+#: admin/options.php:522
+msgid "Select font options for Heading 3."
+msgstr ""
+
+#: admin/options.php:541
+msgid "H4 Font Options"
+msgstr ""
+
+#: admin/options.php:542
+msgid "Select font options for Heading 4."
+msgstr ""
+
+#: admin/options.php:561
+msgid "H5 Font Options"
+msgstr ""
+
+#: admin/options.php:562
+msgid "Select font options for Heading 5."
+msgstr ""
+
+#: admin/options.php:581
+msgid "H6 Font Options"
+msgstr ""
+
+#: admin/options.php:582
+msgid "Select font options for Heading 6."
+msgstr ""
+
+#: admin/options.php:601
+msgid "Styling"
+msgstr ""
+
+#: admin/options.php:607
+msgid "Color"
+msgstr ""
+
+#: admin/options.php:608
+msgid "Main color accents."
+msgstr ""
+
+#: admin/options.php:616
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options.php:617
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/options.php:623
+msgid "Custom CSS for Tablet Landscape"
+msgstr ""
+
+#: admin/options.php:624
+msgid "Only screen max-width: 1024px"
+msgstr ""
+
+#: admin/options.php:630
+msgid "Custom CSS for Tablet Portrait"
+msgstr ""
+
+#: admin/options.php:631
+msgid "Only min-width: 768px and max-width: 959px"
+msgstr ""
+
+#: admin/options.php:637
+msgid "Custom CSS for Mobile Landscape"
+msgstr ""
+
+#: admin/options.php:638
+msgid "Only min-width: 480px and max-width: 767px"
+msgstr ""
+
+#: admin/options.php:644
+msgid "Custom CSS for Mobile Portrait"
+msgstr ""
+
+#: admin/options.php:645
+msgid "Only screen and max-width: 479px"
+msgstr ""
+
+#: admin/options.php:654
+msgid "Import / Export"
+msgstr ""
+
+#: admin/options.php:655
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: admin/options.php:662
+msgid "Save and restore your Redux options"
+msgstr ""
+
+#: admin/options.php:674
+msgid "Theme Information"
+msgstr ""
+
+#: admin/options.php:675
+msgid ""
+"<p class=\"description\">Xarago is Professional Web Hosting Themes. Suited "
+"for Web Hosting business / corporate web sites but it can be used for every "
+"type of web site with some modifications.</p>"
+msgstr ""
+
+#: admin/options.php:693
+msgid "Theme Information 1"
+msgstr ""
+
+#: admin/options.php:694 admin/options.php:700
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/options.php:699
+msgid "Theme Information 2"
+msgstr ""
+
+#: admin/options.php:704
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/options.php:727 admin/options.php:728
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options.php:828
+msgid "Documentation"
+msgstr ""
+
+#: admin/options.php:834
+msgid "Support"
+msgstr ""
+
+#: admin/options.php:840
+msgid "Extensions"
+msgstr ""
+
+#: admin/options.php:846
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: admin/options.php:861
+msgid "<p>WordPress Theme by <strong>Indonez</strong></p>"
+msgstr ""
+
+#: admin/options.php:870 admin/options.php:913
+msgid "your custom error message"
+msgstr ""
+
+#: admin/options.php:880
+msgid "CLASS CALLBACK"
+msgstr ""
+
+#: admin/options.php:889
+msgid ""
+"The class named Redux_Framework_sample_config has already been called. "
+"Developers, you need to prefix this class with your company name or you'll "
+"run into problems!"
+msgstr ""
+
+#: admin/options.php:909
+msgid "just testing"
+msgstr ""
+
+#: comments.php:11
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26
+#, php-format
+msgid "<strong>1 COMMENT</strong> to %2$s"
+msgstr ""
+
+#: comments.php:36
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73
+msgid "Name"
+msgstr ""
+
+#: comments.php:76
+msgid "Email"
+msgstr ""
+
+#: comments.php:79 inc/walker/XaragoUikitMenuWalkerNavEdit.php:124
+msgid "URL"
+msgstr ""
+
+#: comments.php:82
+msgid "Enter your Message"
+msgstr ""
+
+#: comments.php:89
+msgid "Leave Comment"
+msgstr ""
+
+#: comments.php:90
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:91
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:92
+msgid "Send Message "
+msgstr ""
+
+#: elements/base/header-inner.php:31
+#, php-format
+msgid "Archives %s"
+msgstr ""
+
+#: elements/base/header-inner.php:33 inc/ThemeHooks.php:89
+msgid "Search"
+msgstr ""
+
+#: elements/base/header-inner.php:40
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: elements/base/header-inner.php:43
+msgid "ERROR 404"
+msgstr ""
+
+#: elements/content/content-page.php:9 elements/content/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: elements/content/content.php:55
+msgid "0 Comment"
+msgstr ""
+
+#: elements/content/content.php:55
+msgid "1 Comments"
+msgstr ""
+
+#: elements/content/content.php:55
+msgid "% Comments"
+msgstr ""
+
+#: elements/content/content.php:64
+msgid "Continue Reading..."
+msgstr ""
+
+#: functions.php:54
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#: functions.php:64
+msgid "Indonez Ui Shortcodes"
+msgstr ""
+
+#: functions.php:74
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:79
+msgid "ACF: Sidebar Selector"
+msgstr ""
+
+#: functions.php:84
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:89
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:94
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: functions.php:99
+msgid "WP Pagenavi"
+msgstr ""
+
+#: functions.php:104
+msgid "Breadcrumb Navxt"
+msgstr ""
+
+#: functions.php:109
+msgid "Envato WordPress Toolkit"
+msgstr ""
+
+#: functions.php:131 inc/TGMActivation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:132 inc/TGMActivation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:133 inc/TGMActivation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:134 inc/TGMActivation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions.php:135 inc/TGMActivation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:137 inc/TGMActivation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: functions.php:142 inc/TGMActivation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: functions.php:147 inc/TGMActivation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: functions.php:152 inc/TGMActivation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: functions.php:157 inc/TGMActivation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: functions.php:162 inc/TGMActivation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: functions.php:167 inc/TGMActivation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: functions.php:172 inc/TGMActivation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: functions.php:177 inc/TGMActivation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: functions.php:181 inc/TGMActivation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:182 inc/TGMActivation.php:394 inc/TGMActivation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:183 inc/TGMActivation.php:395 inc/TGMActivation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions.php:184 inc/TGMActivation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: functions.php:185 inc/TGMActivation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: functions.php:186 inc/TGMActivation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions.php:187 inc/TGMActivation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions.php:188 inc/TGMActivation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: functions.php:189 inc/TGMActivation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions.php:218 inc/walker/XaragoUikitCommentsWalker.php:108
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:223 inc/ThemeHelpers.php:325
+msgid "Edit"
+msgstr ""
+
+#: inc/TGMActivation.php:393 inc/TGMActivation.php:912
+#: inc/TGMActivation.php:2618 inc/TGMActivation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/TGMActivation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/TGMActivation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/TGMActivation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/TGMActivation.php:1019 inc/TGMActivation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/TGMActivation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/TGMActivation.php:1206 inc/TGMActivation.php:3033
+msgid "and"
+msgstr ""
+
+#: inc/TGMActivation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/TGMActivation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/TGMActivation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/TGMActivation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/TGMActivation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/TGMActivation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/TGMActivation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/TGMActivation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/TGMActivation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/TGMActivation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/TGMActivation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/TGMActivation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/TGMActivation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/TGMActivation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/TGMActivation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/TGMActivation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/TGMActivation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/TGMActivation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: inc/TGMActivation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/TGMActivation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/TGMActivation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/TGMActivation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGMActivation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/TGMActivation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/TGMActivation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/TGMActivation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/TGMActivation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/TGMActivation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/TGMActivation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/TGMActivation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/TGMActivation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/TGMActivation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/TGMActivation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/TGMActivation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/TGMActivation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/TGMActivation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/TGMActivation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/TGMActivation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/TGMActivation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/TGMActivation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/TGMActivation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/TGMActivation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGMActivation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/TGMActivation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/TGMActivation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/TGMActivation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/TGMActivation.php:3594 inc/TGMActivation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/TGMActivation.php:3594 inc/TGMActivation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/TGMActivation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/TGMActivation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGMActivation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/TGMActivation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/TGMActivation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/TGMActivation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/ThemeFilters.php:93
+msgid "Logout"
+msgstr ""
+
+#: inc/ThemeFilters.php:119
+msgid "Search and type enter..."
+msgstr ""
+
+#: inc/ThemeHelpers.php:90
+msgid "Please manage your menu items from Appearances => Menus first"
+msgstr ""
+
+#: inc/ThemeHooks.php:89
+msgid "Search for:"
+msgstr ""
+
+#: inc/ThemeHooks.php:92
+msgid "All Categories"
+msgstr ""
+
+#: inc/ThemeHooks.php:184
+msgid "&copy; 2015 - All rights reserved. Theme by indonez."
+msgstr ""
+
+#: inc/ThemeHooks.php:199
+msgid ""
+"Add widget to WP Admin &rarr; Appearance &rarr; Widgets &rarr; Top Footer "
+"Left"
+msgstr ""
+
+#: inc/ThemeHooks.php:208
+msgid ""
+"Add widget to WP Admin &rarr; Appearance &rarr; Widgets &rarr; Top Footer "
+"Right"
+msgstr ""
+
+#: inc/ThemeHooks.php:221 inc/ThemeHooks.php:230 inc/ThemeHooks.php:239
+#: inc/ThemeHooks.php:248
+msgid ""
+"Add widget to WP Admin &rarr; Appearance &rarr; Widgets &rarr; Footer1 "
+"Sidebar"
+msgstr ""
+
+#: inc/ThemeHooks.php:269
+msgid "Extra profile information"
+msgstr ""
+
+#: inc/ThemeHooks.php:277
+msgid ""
+"Please enter your facebook profile url. Example: https://www.facebook.com/"
+"indonez"
+msgstr ""
+
+#: inc/ThemeHooks.php:286
+msgid ""
+"Please enter your twitter profile url. Example: https://twitter.com/"
+"indonezTheme"
+msgstr ""
+
+#: inc/ThemeHooks.php:295
+msgid ""
+"Please enter your instagram profile url. Example: http://instagram.com/"
+"insideenvato/"
+msgstr ""
+
+#: inc/ThemeHooks.php:304
+msgid ""
+"Please enter your linkedin profile url. Example: https://au.linkedin.com/in/"
+"joshjanssen"
+msgstr ""
+
+#: inc/ThemeMenus.php:17
+msgid "Top Menu"
+msgstr ""
+
+#: inc/ThemeMenus.php:18
+msgid "Main Menu"
+msgstr ""
+
+#: inc/ThemeMenus.php:19
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/ThemeSidebars.php:26
+msgid "Post Sidebar"
+msgstr ""
+
+#: inc/ThemeSidebars.php:28 inc/ThemeSidebars.php:39
+msgid "Main Sidebar on the right/left side."
+msgstr ""
+
+#: inc/ThemeSidebars.php:37
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/ThemeSidebars.php:48
+msgid "Top Footer Left"
+msgstr ""
+
+#: inc/ThemeSidebars.php:50
+msgid "Top footer left sidebar."
+msgstr ""
+
+#: inc/ThemeSidebars.php:59
+msgid "Top Footer Right"
+msgstr ""
+
+#: inc/ThemeSidebars.php:61
+msgid "Top footer right sidebar."
+msgstr ""
+
+#: inc/ThemeSidebars.php:70
+msgid "Footer 1"
+msgstr ""
+
+#: inc/ThemeSidebars.php:72
+msgid "Footer sidebar, show on first column."
+msgstr ""
+
+#: inc/ThemeSidebars.php:80
+msgid "Footer 2"
+msgstr ""
+
+#: inc/ThemeSidebars.php:82
+msgid "Footer sidebar, show on second column."
+msgstr ""
+
+#: inc/ThemeSidebars.php:90
+msgid "Footer 3"
+msgstr ""
+
+#: inc/ThemeSidebars.php:92
+msgid "Footer sidebar, show on third column."
+msgstr ""
+
+#: inc/ThemeSidebars.php:100
+msgid "Footer 4"
+msgstr ""
+
+#: inc/ThemeSidebars.php:102
+msgid "Footer sidebar, show on fourth column."
+msgstr ""
+
+#: inc/ThemeSidebars.php:122
+msgid "A Custom sidebar created from Appearance >> Theme Options >> Sidebars."
+msgstr ""
+
+#: inc/ThemeStyles.php:40 inc/ThemeStyles.php:41 inc/ThemeStyles.php:42
+#: inc/ThemeStyles.php:43 inc/ThemeStyles.php:44 inc/ThemeStyles.php:45
+#: inc/ThemeStyles.php:46 inc/ThemeStyles.php:47 inc/ThemeStyles.php:48
+#: inc/ThemeStyles.php:49 inc/ThemeStyles.php:50
+msgid "on"
+msgstr ""
+
+#: inc/ThemeWoocommerce.php:166
+msgid "Subtotal"
+msgstr ""
+
+#: inc/ThemeWoocommerce.php:171
+msgid "View cart"
+msgstr ""
+
+#: inc/ThemeWoocommerce.php:172
+msgid "Checkout"
+msgstr ""
+
+#: inc/ThemeWoocommerce.php:312
+msgid "Read more"
+msgstr ""
+
+#: inc/ThemeWoocommerce.php:482
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/ThemeWoocommerce.php:486
+msgid "Check Out"
+msgstr ""
+
+#: inc/ThemeWoocommerce.php:490
+msgid "Order Complete"
+msgstr ""
+
+#: inc/walker/XaragoUikitCommentsWalker.php:105
+msgid "Edit This"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:70
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:74
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:98
+msgid "Move up"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:111
+msgid "Move down"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:113
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:115
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:131
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:137
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:144
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:149
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:155
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:161
+msgid "Description"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:163
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:171
+msgid "Background Image URL for Megamenu"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:181
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:194
+msgid "Remove"
+msgstr ""
+
+#: inc/walker/XaragoUikitMenuWalkerNavEdit.php:195
+msgid "Cancel"
+msgstr ""
+
+#: index.php:34 page.php:26 template-gallery.php:26
+msgid "Nothing found here. Sorry!"
+msgstr ""
+
+#: template-sitemap.php:19
+msgid "Pages"
+msgstr ""
+
+#: template-sitemap.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#: template-sitemap.php:27
+msgid "Archives by Month"
+msgstr ""
+
+#: template-sitemap.php:31
+msgid "Archives by Category"
+msgstr ""
+
+#: template-sitemap.php:43
+msgid "Archives by Tag"
+msgstr ""
+
+#: template-sitemap.php:64
+msgid "Archives by Author"
+msgstr ""
+
+#: template-sitemap.php:71
+msgid "Latest 20 Posts"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:26
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:29
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39 woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-login.php:59
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:61
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:65
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "Anti-spam"
+msgstr ""

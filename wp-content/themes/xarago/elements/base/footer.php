@@ -1,0 +1,1 @@
+<?php do_action('xarago_footer_section');?>
